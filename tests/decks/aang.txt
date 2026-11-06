@@ -1,0 +1,16 @@
+1 The Mechanist, Aerial Artisan
+1 Appa, Steadfast Guardian
+1 Toph, the First Metalbender
+1 Fire Lord Zuko
+1 Katara, the Fearless
+1 Sokka, Bold Boomeranger
+1 Avatar's Wrath
+1 The Walls of Ba Sing Se
+1 Secret Tunnel
+1 Ozai, the Phoenix King
+5 Island
+6 Plains
+4 Forest
+
+// Commander
+1 Avatar Aang

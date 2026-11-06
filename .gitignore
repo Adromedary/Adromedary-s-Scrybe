@@ -1,0 +1,22 @@
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Scrybe test runs and downloads
+*.part
+scrybe_manifest.csv
+*.jsonl.gz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

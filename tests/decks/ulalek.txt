@@ -1,0 +1,21 @@
+1 Emrakul, the World Anew
+1 Ulamog, the Ceaseless Hunger
+1 Awakening Zone
+1 Urza's Tower
+1 Urza's Mine
+1 Urza's Power Plant
+1 Eldrazi Temple
+1 Eye of Ugin
+1 Ugin's Labyrinth
+1 Sowing Mycospawn
+1 Kozilek's Command
+1 It That Heralds the End
+2 Island
+4 Wastes
+2 Forest
+2 Swamp
+2 Mountain
+2 Plains
+
+// Commander
+1 Ulalek, Fused Atrocity

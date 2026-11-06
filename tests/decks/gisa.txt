@@ -1,0 +1,16 @@
+1 Priest of Forgotten Gods
+1 Liliana, Dreadhorde General
+1 Grave Titan
+1 Field of the Dead
+1 Gravecrawler
+1 Army of the Damned
+1 Gisa, Glorious Resurrector
+1 Ancient Tomb
+1 Phyrexian Tower
+1 Ghoulcaller Gisa
+1 Zul Ashur, Lich Lord
+1 Endless Ranks of the Dead
+31 Swamp
+
+// Commander
+1 Gisa, the Hellraiser
